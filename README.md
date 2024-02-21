@@ -1,0 +1,1 @@
+ This is a Arduino Uno compatible sketch where the user enters their name into the serial monitor and the built-in LED blinks it out in morse code. If the user wants to make an LED connected to a breadboard blink they may do so by connecting the LED to digital pin 13 on the Arduino.
